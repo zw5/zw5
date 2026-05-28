@@ -1,15 +1,10 @@
-Hi, I'm Simón. Full stack developer building production software since 16.
+Simón Vélez. Full-stack developer. Production code since 16.
 
-**Lumina Health**
-Founding engineer. Built the entire clinical platform solo — API (Node.js/TypeScript), web (React), mobile (Flutter), admin (Svelte). Serverless on Cloudflare Workers, PostgreSQL. Integrated LLMs (GPT/Claude) for clinical docs, real-time transcription with Deepgram.
-[Landing page](https://lumina-landing-85d.pages.dev/)
+Lumina Health: founding engineer. Built the entire clinical platform solo. API (Node.js/TypeScript), web (React), mobile (Flutter), admin (Svelte). Serverless on Cloudflare Workers, PostgreSQL. Integrated GPT and Claude for clinical docs, Deepgram for real-time transcription.
+https://lumina-landing-85d.pages.dev/
 
-**Other work**
-Serverless WhatsApp chatbot (AWS Lambda) for a law firm. E-commerce platform on AWS.
+Other work: serverless WhatsApp chatbot (AWS Lambda) for a law firm. AWS e-commerce platform.
 
-**Side projects**
-Mining combinatorial conjectures with Lean proofs. Building an AI agent reliability eval harness.
+Side projects: mining combinatorial conjectures with Lean. AI agent reliability eval harness.
 
-Languages I reach for first: TypeScript, Python, Rust, Dart, Kotlin.
-Fully bilingual — Spanish and English.
-
+Languages: TypeScript, Python, Rust, Dart, Kotlin. Native Spanish and English.
