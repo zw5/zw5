@@ -1,4 +1,4 @@
-Hi, I'm Simón. I am a full stack developer and I have been building production software since 16.
+Hi, I'm Simón. I am a full stack developer.
 
 some of my projects:
 
