@@ -13,4 +13,3 @@ Mining combinatorial conjectures with Lean proofs. Building an AI agent reliabil
 Languages I reach for first: TypeScript, Python, Rust, Dart, Kotlin.
 Fully bilingual — Spanish and English.
 
-Currently studying engineering at Universidad EAFIT.
