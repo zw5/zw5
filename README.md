@@ -11,6 +11,6 @@ Serverless WhatsApp chatbot (AWS Lambda) for a law firm. E-commerce platform on 
 Mining combinatorial conjectures with Lean proofs. Building an AI agent reliability eval harness.
 
 Languages I reach for first: TypeScript, Python, Rust, Dart, Kotlin.
-Spanish native. English C1.
+Fully bilingual — Spanish and English.
 
 Currently studying engineering at Universidad EAFIT.
