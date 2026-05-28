@@ -1,4 +1,4 @@
-Simón Vélez. Full-stack developer. Production code since 16.
+Hi, I'm Simón. Full stack developer building production software since 16.
 
 Lumina Health: founding engineer. Built the entire clinical platform solo. API (Node.js/TypeScript), web (React), mobile (Flutter), admin (Svelte). Serverless on Cloudflare Workers, PostgreSQL. Integrated GPT and Claude for clinical docs, Deepgram for real-time transcription.
 https://lumina-landing-85d.pages.dev/
